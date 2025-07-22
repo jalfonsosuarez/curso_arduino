@@ -1,1 +1,5 @@
 libraries/
+Python/
+.history/
+
+.DS_Store
