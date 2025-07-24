@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <NTPClient.h>
+#include <NTPClient.h> // https://github.com/taranais/NTPClient/archive/master.zip
 #include <WiFi.h>
 #include <WiFiUdp.h>
 #include <LiquidCrystal_I2C.h>
